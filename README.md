@@ -26,15 +26,23 @@ N개의 법안이 모두 '의견등록' 페이지에 있을때, 그중에서 하
 
 ### 참고
 
-확장: https://gall.dcinside.com/mgallery/board/view/?id=uspolitics&no=1331149
+**확장**: https://gall.dcinside.com/mgallery/board/view/?id=uspolitics&no=1331149
 
 이 확장에 자동 등록만 추가한거라고 보면됨
 
-딸깍 북마클릿: https://gall.dcinside.com/mgallery/board/view/?id=alliescon&no=3434125
+**딸깎 북마클릿**: https://gall.dcinside.com/mgallery/board/view/?id=alliescon&no=3434125
 
 제일 알잘딱. VFORKOREA와 국회입법예고 사이트 두곳에서 '북마클릿' 기능을 이용한 아주 센스 있는 솔루션.
 
 이 폴더의 파일들은 그냥 딸깎좌의 방법을 풀어서 모듈화(?) 했다고 보면됨.
+
+**VFORKOREA**: https://vforkorea.com/assem/
+
+입법예정법안과 그것들의 내용을 AI요약해준 사이트. 
+
+**국회입법예고 사이트**: https://pal.assembly.go.kr/napal/main/main.do
+
+여기서 휴대폰 인증만 하면 회원가입 끝. 이 아이디로 입법참여와 국민청원 가능
 
 # VFORKOREA
 
