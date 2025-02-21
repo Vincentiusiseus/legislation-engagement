@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "입법참여 자동 반대",
+  "version": "1",
+  "description": "의견 등록 페이지 포거스 시 자동 반대 등록",
+  "host_permissions": ["https://pal.assembly.go.kr/*"],
+  "permissions": ["activeTab", "scripting"],
+  "content_scripts": [{
+    "matches": ["https://pal.assembly.go.kr/*"],
+    "js": ["auto.js"]
+  }]
+}
