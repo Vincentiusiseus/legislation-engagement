@@ -16,7 +16,9 @@
 
 ![반자동화](./readme-source/메인데모.gif)
 
-로딩이 안되면 이 `./readme-source/메인데모.gif`에서 직접 봐주세요
+로딩이 안되면 이 `./readme-source/메인데모.gif`에서 직접 봐주세요.
+
+유튜브도 올렸습니다 (1분10초): https://www.youtube.com/shorts/bUEsVk_yAxU
 
 (GIF 영상 끝)
 
